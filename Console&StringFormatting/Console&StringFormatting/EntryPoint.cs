@@ -27,6 +27,8 @@ class EntryPoint
         // so that there will be 7 spaces prior which differs
         // from String formatting
         Console.WriteLine("{0, 10}", five);
+        // float data types will be rounded if too large to fit X requirement
+        // "{0, 10:CX}" displays as currency with X determining the number of digits after the decimal
 
 
     }
