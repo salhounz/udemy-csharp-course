@@ -16,3 +16,5 @@
 	- Unit 6-10 *includes Variables, Data Types, Data Sizes, Strings, and an introduction to Arrays*
 - **Section Three**
 	- Unit 11-12 *includes Console.Write and WriteLine differences, and string formatting tips*
+- **Section Four**
+    - Unit 13 *includes basics and tips on arithmetic operators and performing math in C#*
