@@ -1,10 +1,10 @@
 ## Udemy-CSharp-Course
 - **Project Description**
 
-		An ongoing unit-by-unit breakdown of 'Programming Fundamentals - The Basics with C# for Beginners' free Udemy course by Tod Vachev.
+		A complete unit-by-unit breakdown of 'Programming Fundamentals - The Basics with C# for Beginners' free Udemy course by Tod Vachev.
         The project begins with an Introduction and Setup section along with beginner
         level programs such as HelloWorld. 
-        However, other sections such as 2,3 or 4 cover items like the Console, Data Types and Sizes, String Concatenation, and other topics.
+        However, other sections such as 2,3 or 4 cover items like the Console, Data Types and Sizes, String Concatenation, For Loops, Operators, and other topics.
 		
 
 
