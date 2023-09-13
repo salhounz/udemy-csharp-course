@@ -21,6 +21,9 @@ class EntryPoint
         int subtraction = b - a;
         int multiplication = a * b;
         double division = a / b;
+        // Calculates the remainder
+        // Ex. 7 % 5
+        // 7 is divisible by 5 once with a remainder of 2
         int modulo = b % a;
 
         Console.WriteLine("Addition Result: {0}", addition);
