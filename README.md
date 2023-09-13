@@ -20,3 +20,5 @@
     - Unit 13 *includes basics and tips on arithmetic operators and performing math in C#*
 - **Section Five**
     - Unit 14-16 *includes logical operators, if, else, elif, etc.*
+- **Section Six**
+    - Unit 17-18 *includes while loops, for loops, and general tips*
