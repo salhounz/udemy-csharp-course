@@ -18,3 +18,5 @@
 	- Unit 11-12 *includes Console.Write and WriteLine differences, and string formatting tips*
 - **Section Four**
     - Unit 13 *includes basics and tips on arithmetic operators and performing math in C#*
+- **Section Five**
+    - Unit 14-16 *includes logical operators, if, else, elif, etc.*
